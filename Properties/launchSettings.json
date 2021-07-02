@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/Test/kaushi",
+      "launchUrl": "api/customer/getCustomers",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
